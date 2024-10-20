@@ -5,3 +5,5 @@ vamos en la clase numero 8
 y estoy viendo los comandos mas comunes utilizados en git
 
 ahora se realiza un cambio para ver si git lo rastrea
+
+pasamos a la clase numero 9 y hacemos una segunda modificación
