@@ -3,3 +3,5 @@ hola esto es una prueba para entender git
 vamos en la clase numero 8
 
 y estoy viendo los comandos mas comunes utilizados en git
+
+ahora se realiza un cambio para ver si git lo rastrea
